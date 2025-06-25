@@ -2,7 +2,7 @@
  * defines_pins.h
  *
  *  Created on: Sep 21, 2020
- *  Author:
+ *  Author: Murat Okumus
  */
 
 #ifndef APP_DRIVER_I2C_H
