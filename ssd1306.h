@@ -1,6 +1,6 @@
 /**
  * original author:  Tilen Majerle<tilen@majerle.eu>
- * modification for STM32f10x: Murat Okumuþ<okumusmurat74@gmail.com>
+ * modification for NRF52832: Murat Okumus<okumusmurat74@gmail.com>
 
    ----------------------------------------------------------------------
     Copyright (C) Tilen Majerle, 2015
